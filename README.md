@@ -35,7 +35,8 @@ Table Creation:
 CREATE TABLE 'preboarding_attendance': Defines the table structure, including columns, data types, and constraints.
 Example Columns:
 app_id: An integer column used as the primary key.
-name, email_address, etc.: Columns to store intern details like name, email, and contact information.
+name, email_address, etc.
+Columns to store intern details like name, email, and contact information.
 status: Tracks the intern's status, e.g., "Active."
 Storage Engine:
 
